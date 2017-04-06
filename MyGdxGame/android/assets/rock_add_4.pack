@@ -1,0 +1,33 @@
+
+rock_add_4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+rock0
+  rotate: false
+  xy: 1, 391
+  size: 2048, 128
+  orig: 2048, 128
+  offset: 0, 0
+  index: -1
+rock1
+  rotate: false
+  xy: 1, 261
+  size: 2048, 128
+  orig: 2048, 128
+  offset: 0, 0
+  index: -1
+rock2
+  rotate: false
+  xy: 1, 131
+  size: 2048, 128
+  orig: 2048, 128
+  offset: 0, 0
+  index: -1
+rock3
+  rotate: false
+  xy: 1, 1
+  size: 2048, 128
+  orig: 2048, 128
+  offset: 0, 0
+  index: -1

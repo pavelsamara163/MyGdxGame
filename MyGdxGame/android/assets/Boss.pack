@@ -1,0 +1,12 @@
+
+Boss.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+onslaught_sprite
+  rotate: false
+  xy: 1, 1
+  size: 384, 864
+  orig: 384, 864
+  offset: 0, 0
+  index: -1

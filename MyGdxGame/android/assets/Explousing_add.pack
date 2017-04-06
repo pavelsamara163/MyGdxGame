@@ -1,0 +1,19 @@
+
+Explousing_add.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Explousing
+  rotate: false
+  xy: 1, 1299
+  size: 3004, 140
+  orig: 3004, 140
+  offset: 0, 0
+  index: -1
+Sergey
+  rotate: false
+  xy: 1, 1
+  size: 952, 1296
+  orig: 952, 1296
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,19 @@
+
+bullet_Enemies.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bullet
+  rotate: false
+  xy: 1, 77
+  size: 920, 3400
+  orig: 920, 3400
+  offset: 0, 0
+  index: -1
+redLaserRay
+  rotate: false
+  xy: 1, 1
+  size: 290, 74
+  orig: 290, 74
+  offset: 0, 0
+  index: -1

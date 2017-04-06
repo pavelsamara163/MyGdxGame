@@ -1,0 +1,138 @@
+
+texture_add_1.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+thrust_blue
+  rotate: false
+  xy: 1, 3589
+  size: 3072, 128
+  orig: 3072, 128
+  offset: 0, 0
+  index: -1
+thrust_green&purple
+  rotate: false
+  xy: 1, 515
+  size: 128, 3072
+  orig: 128, 3072
+  offset: 0, 0
+  index: -1
+thrust_green
+  rotate: false
+  xy: 131, 515
+  size: 128, 3072
+  orig: 128, 3072
+  offset: 0, 0
+  index: -1
+thrust_yellow
+  rotate: false
+  xy: 261, 3459
+  size: 3072, 128
+  orig: 3072, 128
+  offset: 0, 0
+  index: -1
+thrust_yellow2
+  rotate: false
+  xy: 261, 3329
+  size: 3072, 128
+  orig: 3072, 128
+  offset: 0, 0
+  index: -1
+thrust_yellow_sm
+  rotate: false
+  xy: 261, 3199
+  size: 3072, 128
+  orig: 3072, 128
+  offset: 0, 0
+  index: -1
+strip_bug_eye
+  rotate: false
+  xy: 261, 1149
+  size: 128, 2048
+  orig: 128, 2048
+  offset: 0, 0
+  index: -1
+strip_crescent
+  rotate: false
+  xy: 391, 3069
+  size: 2048, 128
+  orig: 2048, 128
+  offset: 0, 0
+  index: -1
+strip_saucer
+  rotate: false
+  xy: 391, 2939
+  size: 2048, 128
+  orig: 2048, 128
+  offset: 0, 0
+  index: -1
+strip_saucer_blades
+  rotate: false
+  xy: 391, 2809
+  size: 2048, 128
+  orig: 2048, 128
+  offset: 0, 0
+  index: -1
+strip_spikey
+  rotate: false
+  xy: 391, 2679
+  size: 2048, 128
+  orig: 2048, 128
+  offset: 0, 0
+  index: -1
+strip_fighter
+  rotate: false
+  xy: 391, 629
+  size: 128, 2048
+  orig: 128, 2048
+  offset: 0, 0
+  index: -1
+strip_scythe
+  rotate: false
+  xy: 521, 629
+  size: 128, 2048
+  orig: 128, 2048
+  offset: 0, 0
+  index: -1
+strip_slicer
+  rotate: false
+  xy: 651, 629
+  size: 128, 2048
+  orig: 128, 2048
+  offset: 0, 0
+  index: -1
+thrust_orange_big
+  rotate: false
+  xy: 261, 123
+  size: 128, 1024
+  orig: 128, 1024
+  offset: 0, 0
+  index: -1
+gun_blast
+  rotate: false
+  xy: 3075, 3653
+  size: 768, 64
+  orig: 768, 64
+  offset: 0, 0
+  index: -1
+gun_blast_blue
+  rotate: false
+  xy: 2441, 3133
+  size: 512, 64
+  orig: 512, 64
+  offset: 0, 0
+  index: -1
+projectile_bolt_blue
+  rotate: false
+  xy: 781, 2165
+  size: 64, 512
+  orig: 64, 512
+  offset: 0, 0
+  index: -1
+projectile_bolt_red
+  rotate: false
+  xy: 1, 1
+  size: 64, 512
+  orig: 64, 512
+  offset: 0, 0
+  index: -1
